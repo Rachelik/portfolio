@@ -1,0 +1,59 @@
+.container {
+  text-align: center;
+  max-width: 1200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.link-to-me {
+  margin-top: 20px;
+}
+
+.jumbotron {
+  margin-bottom:0;
+}
+.container-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.container-list img {
+  width: 90%;
+  margin: 10px;
+}
+
+
+.list-link {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.card-title {
+  color: #eceff1;
+}
+
+.card {
+  width: 70%;
+  margin: 10px 0;
+}
+
+.card-header, .card-footer {
+  text-align: left;
+}
+
+.footer-text-color {
+  background-color: #b2dfdb;
+  padding: 20px;
+}
+
+.content {
+  max-width: 500px;
+  padding: 20px;
+  margin: 0px 20px;
+}
+
+.link-to-top {
+  padding-top: 20px;
+}
