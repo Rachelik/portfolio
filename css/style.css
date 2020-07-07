@@ -10,7 +10,9 @@
 }
 
 .jumbotron {
+  background-color: #b2dfdb;
   margin-bottom:0;
+  height: 30vh;
 }
 .container-list {
   display: flex;
